@@ -4,9 +4,9 @@ navbar:
   title: "Henrik Schinke"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
+   # - text: "Home"
+  #    icon: fa-home
+  #    href: index.html
     - text: "About"
       icon: fa-user 
       href: about.html
