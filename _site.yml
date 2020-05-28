@@ -15,7 +15,18 @@ navbar:
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://henrikschinke.github.io/blog/  
+      href: https://henrikschinke.github.io/blog/ 
+    - text: "R"
+      icon: fa-dropbox
+      menu:
+        - text: "Data from pdf"
+          href: Extract_data_from_pdf.html
+        #- text: "---------"
+        #- text: "FFTrees"
+        #  href: FFTrees.html
+        #- text: "---------"
+        #- text: "VisualResume"
+        #  href: VisualResume.html
   right:
     - text: "Email"
       icon: fa-envelope-o
