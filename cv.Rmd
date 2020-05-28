@@ -4,7 +4,7 @@ title: "A short CV"
 
 Please find my CV in a PDF format in the link below.
 
-For more information visit my LinkdIn profile or don't hesitate to contact me via Email. You my find links in the top right corner of this website.
+For more information visit my LinkdIn profile or don't hesitate to contact me via Email. You may find links in the top right corner of this website.
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
