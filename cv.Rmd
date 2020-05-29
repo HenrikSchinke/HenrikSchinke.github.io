@@ -1,10 +1,10 @@
 ---
-title: "A short CV"
+title: "Curriculum Vitae"
 ---
 
-Please find my CV in a PDF format in the link below.
+Please find my CV as a PDF in the link below.
 
-For more information visit my LinkdIn profile or don't hesitate to contact me via Email. You may find links in the top right corner of this website.
+For more information visit my [LinkdIn profile](https://www.linkedin.com/in/henrik-schinke-438004135/). If you have any questions, don't hesitate to contact me via [Email](mailto:schinkehenrik@gmail.com). 
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
