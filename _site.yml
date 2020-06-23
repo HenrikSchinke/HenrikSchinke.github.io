@@ -21,9 +21,9 @@ navbar:
       menu:
         - text: "Data from pdf"
           href: Extract_data_from_pdf.html
-        #- text: "---------"
-        #- text: "FFTrees"
-        #  href: FFTrees.html
+        - text: "---------"
+        - text: "Survival analysis"
+          href: RiskScore_pEMT.html
         #- text: "---------"
         #- text: "VisualResume"
         #  href: VisualResume.html
