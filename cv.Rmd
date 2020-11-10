@@ -4,6 +4,6 @@ title: "Curriculum Vitae"
 
 Please find my CV as a PDF in the link below.
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
+<a href="CV_HenrikSchinke.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
 
 For more information visit my [LinkedIn profile](https://www.linkedin.com/in/henrik-schinke-438004135/). If you have any questions, don't hesitate to contact me via [Email](mailto:schinkehenrik@gmail.com). 
