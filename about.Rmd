@@ -15,7 +15,7 @@ I am (becoming) a scientist interested in cancer evolution and potential attackp
 
 1. Schinke, H. et al., Digital scoring of EpCAM and Slug expression as prognostic markers in head and neck squamous cell carcinomas. Under revision: *Molecular Oncology*, 2020
 
-2. Schinke, H. et al., Single sample quantification discloses prognostic value of partial epithelial-to-mesenchymal transition and its association with Slug in head and neck cancers. [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.10.20.346692v1), 2020
+2. Schinke, H. et al., Partial epithelial-to-mesenchymal transition is prognostic and associates with Slug in head and neck cancer. [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.10.20.346692v1), 2020
 
 3. Pan, M. and Schinke, H. et al., EpCAM ectodomain EpEX is a ligand of EGFR that
 counteracts EGF-mediated epithelial-mesenchymal transition through modulation of
